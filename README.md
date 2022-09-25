@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there !! 👋🏻
 
-<!--
-**kanbc/kanbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome dude!
 
-Here are some ideas to get you started:
+- I'm Kan, an entrepreneur, a full-stack developer, currently living in Bangkok, Thailand. 🇹🇭.
+- I’m currently learning Terraform, and other stack that benefit dev-ops workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack I use
+
+## Open source projects I can share
+
+## Thonglor, Bangkok
+
+## You can find me more on,
