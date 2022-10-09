@@ -3,7 +3,6 @@
 Welcome dude!
 
 - I'm Kan, an entrepreneur, a full-stack developer, currently living in Bangkok, Thailand. 🇹🇭.
-- I’m currently learning <a href="https://www.terraform.io/">Terraform</a> to also be a dev-ops engineer.
 
 # Stack I use
 > Tools, languages, and other things that I like to work with.
