@@ -93,7 +93,7 @@ Welcome dude!
       <a href="#" >
         <img src="./img/terraform-logo.webp" width="48" height="48" alt="Terraform" />
       </a>
-      <br>Terraform (LoL)
+      <br>Terraform
     </td>
   </tr>
   <tr>
